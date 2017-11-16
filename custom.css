@@ -3184,22 +3184,7 @@ span.save_widget span.filename:hover {
  background-color: #1a2028;
 }
 
-<script>
-    MathJax.Hub.Config({
-        "HTML-CSS": {
-            /*preferredFont: "TeX",*/
-            /*availableFonts: ["TeX", "STIX"],*/
-            styles: {
-                scale: 100,
-                ".MathJax_Display": {
-                    "font-size": "100%",
-                }
-            }
-        }
-    });
-</script>
-    
-
+/* paranoid */
 .item_buttons.pull-right {
 	line-height: 1em !important;
 	position: relative !important;
@@ -3253,3 +3238,20 @@ div.notification_widget.info, .notification_widget.info {
 .terminal-app #header {
 	background: #1a2028;
 }
+
+/* paranoid end */
+
+<script>
+    MathJax.Hub.Config({
+        "HTML-CSS": {
+            /*preferredFont: "TeX",*/
+            /*availableFonts: ["TeX", "STIX"],*/
+            styles: {
+                scale: 100,
+                ".MathJax_Display": {
+                    "font-size": "100%",
+                }
+            }
+        }
+    });
+</script>
