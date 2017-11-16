@@ -3200,10 +3200,10 @@ span.save_widget span.filename:hover {
 </script>
     
 
-.item_buttons {
+.item_buttons.pull-right {
 	line-height: 1em !important;
 	position: relative !important;
-	top: -6px !important;
+	top: -4px !important;
 }
 
 .item_icon, .item_link {
@@ -3248,4 +3248,8 @@ div.notification_widget.info, .notification_widget.info {
 .notification_widget, div.notification_widget {
 	margin-top: 8px !important;
 	font-size: 12pt !important;
+}
+
+.terminal-app #header {
+	background: #1a2028;
 }
