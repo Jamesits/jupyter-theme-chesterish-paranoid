@@ -101,7 +101,13 @@ div.notification_widget {
 /* add a little margin on the top of the page */
 
 #header {
-    padding-top: 16px;
+    margin-top: 16px;
+}
+
+/* put main content a little higher to prevent scroll bar */
+#site {
+    position: relative;
+    top: -16px;
 }
 
 
