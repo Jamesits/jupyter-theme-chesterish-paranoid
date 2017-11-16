@@ -1,33 +1,34 @@
 /* alignment */
 
+
 /* file list page "Upload" and "New" button */
 
-.btn-xs, .btn-group-xs>.btn {
+.btn-xs,
+.btn-group-xs>.btn {
     line-height: inherit;
 }
+
 
 /* all tabs: right side kernel name and running tag */
 
 .item_buttons.pull-right {
-    /* line-height: 1em !important;
     position: relative !important;
-    top: -4px !important; */
-    line-height: inherit;
+    top: -5px !important;
 }
 
-/* .item_buttons .kernel-name {
-    padding-top: 7px !important;
-} */
-
-.item_buttons .running-indicator {
-    padding-top: 7px !important;
-}
 
 /* running tab: notebook title align with icon */
+
+.item_icon.running_notebook_icon.icon-fixed-width {
+    position: relative;
+    top: -3px;
+}
+
 #running_list_placeholder .item_link {
     position: relative !important;
     top: -4px !important;
 }
+
 
 /* top bar: log out button align with control panel button */
 
@@ -36,6 +37,7 @@
     padding-bottom: 6px !important;
 }
 
+
 /* notebook page: top left filename */
 
 span.save_widget span.filename {
@@ -43,6 +45,7 @@ span.save_widget span.filename {
     background-color: rgba(0, 0, 0, 0) !important;
     margin-top: 4px !important;
 }
+
 
 /* notebook page: toolbar */
 
@@ -71,13 +74,26 @@ div.notification_widget {
     font-size: 12pt !important;
 }
 
+
+/* header */
+
+
+/* add a little margin on the top of the page */
+
+#header-container {
+    margin-top: 16px;
+}
+
+
 /* remove terminal top white bar */
+
 .terminal-app #header {
     background: #1a2028;
 }
 
 
 /* remove markdown <pre> background color */
+
 div.text_cell_render pre,
 div.text_cell_render code {
     background-color: inherit;
