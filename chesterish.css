@@ -1806,7 +1806,7 @@ div.cell.text_cell.selected.jupyter-soft-selected {
 
 div.prompt,
 .prompt {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 9pt !important;
     font-weight: normal;
     color: #546386;
@@ -1860,7 +1860,7 @@ div.output_wrapper {
 
 div.output_subarea.output_text.output_stream.output_stdout,
 div.output_subarea.output_text {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 12pt !important;
     line-height: 150% !important;
     background-color: #323a48;
@@ -1870,7 +1870,7 @@ div.output_subarea.output_text {
 }
 
 div.output_area pre {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 12pt !important;
     line-height: 151% !important;
     color: #b4bcde;
@@ -1883,7 +1883,7 @@ div.output_area {
 }
 
 div.output_html {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 12pt;
     color: #e2e5f2;
     background-color: #323a48;
@@ -1912,7 +1912,7 @@ div.btn.btn-default.output_collapsed:hover {
 }
 
 div.prompt.output_prompt {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 9.5pt !important;
     font-weight: bold !important;
     background-color: #323a48;
@@ -1927,7 +1927,7 @@ div.prompt.output_prompt {
 }
 
 div.out_prompt_overlay.prompt {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 9.5pt !important;
     font-weight: bold !important;
     background-color: #323a48;
@@ -2085,7 +2085,7 @@ div.cell.text_cell .prompt {
 }
 
 div.cell.text_cell.rendered .prompt {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 9.5pt;
     font-weight: normal;
     color: #546386 !important;
@@ -2098,7 +2098,7 @@ div.cell.text_cell.rendered .prompt {
 }
 
 div.cell.text_cell.unrendered .prompt {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 9.5pt;
     font-weight: normal;
     color: #546386 !important;
@@ -2127,7 +2127,7 @@ div.text_cell.unrendered.selected .prompt {
 }
 
 div.rendered_html code {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 12pt;
     padding-top: 3px;
     padding-left: 2px;
@@ -2145,7 +2145,7 @@ samp {
 
 .well code,
 code {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 12pt !important;
     line-height: 170% !important;
     color: #b0bdd7;
@@ -2191,7 +2191,7 @@ div.rendered_html {
 }
 
 div.rendered_html pre {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 12pt !important;
     line-height: 170% !important;
     color: #b0bdd7;
@@ -2208,7 +2208,7 @@ div.rendered_html pre {
 
 div.text_cell_render pre,
 div.text_cell_render code {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 12pt !important;
     line-height: 170% !important;
     color: #b0bdd7;
@@ -2726,14 +2726,14 @@ span.bg-danger.text-danger {
 }
 
 .kse-input-group-pretty>kbd {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     color: #a2b0c7;
     font-weight: normal;
     background: transparent;
 }
 
 .kse-input-group-pretty>kbd {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     color: #a2b0c7;
     font-weight: normal;
     background: transparent;
@@ -2843,7 +2843,7 @@ div.collapsible_headings_toggle .fa-caret-right:before {
 }
 
 input.raw_input {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 12pt !important;
     color: #cdd2e9;
     background-color: #252e3a;
@@ -3103,7 +3103,7 @@ div#short-key-bindings-intro.well,
 }
 
 .terminal-app .terminal {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 12pt;
     line-height: 170%;
     color: #cdd2e9;
@@ -3242,7 +3242,7 @@ div#pager .ui-resizable-handle {
 
 div.CodeMirror,
 div.CodeMirror pre {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 12pt;
     line-height: 170%;
     color: #cdd2e9;
@@ -3318,7 +3318,7 @@ div.js-error {
 }
 
 .ipython_tooltip {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 12pt;
     line-height: 170%;
     border: 2px solid #252c36;
@@ -3333,7 +3333,7 @@ div.js-error {
 }
 
 .ipython_tooltip .tooltiptext pre {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 12pt;
     line-height: 170%;
     background: #363f4e;
@@ -3358,7 +3358,7 @@ div.tooltiptext.bigtooltip {
 }
 
 .cm-s-ipython.CodeMirror {
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 12pt;
     background: #293340;
     color: #cdd2e9;
@@ -3638,7 +3638,7 @@ body :focus .MathJax {
     margin: 0px;
     margin-left: 2px;
     overflow: auto;
-    font-family: "Inziu Iosevka SC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 12pt;
     color: #cdd2e9;
     width: auto;
