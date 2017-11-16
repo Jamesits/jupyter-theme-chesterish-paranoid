@@ -12,7 +12,9 @@ So here is a modified Chesterish theme featuring:
  * Use your OS native UI font as Jupyter UI font
  * Use [Iosevka](https://github.com/be5invis/Iosevka) webfont as monospace font
 
-Note: If you installed [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic) on your computer, it will be used instead of Iosevka. It is recommended if you need CJK font in your Jupyter notebook.
+Note: 
+  * Tested under Chrome (most recent stable) on Windows and Safari on macOS.
+  * If you installed [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic) on your computer, it will be used instead of Iosevka. It is recommended if you need CJK font in your Jupyter notebook.
 
 ## Screenshots
 
