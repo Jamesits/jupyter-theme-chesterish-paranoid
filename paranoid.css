@@ -58,7 +58,11 @@ div#ipython_notebook {
 }
 
 
-/* notebook page: top left filename */
+/* notebook page: top left jupyter logo and filename */
+
+#ipython_notebook {
+    padding-top: 6px;
+}
 
 span.save_widget span.filename {
     color: #a2b0c7 !important;
@@ -68,6 +72,11 @@ span.save_widget span.filename {
 
 
 /* notebook page: toolbar */
+
+/* menu: not really need that large padding on top */
+.navbar-default .navbar-nav>li>a {
+    padding-top: 11px;
+}
 
 div.prompt.input_prompt {
     font-size: 12pt !important;
@@ -101,13 +110,13 @@ div.notification_widget {
 /* add a little margin on the top of the page */
 
 #header {
-    margin-top: 16px;
+    margin-top: 12px;
 }
 
 /* put main content a little higher to prevent scroll bar */
 #site {
     position: relative;
-    top: -16px;
+    top: -12px;
 }
 
 
