@@ -1806,7 +1806,7 @@ div.cell.text_cell.selected.jupyter-soft-selected {
 
 div.prompt,
 .prompt {
-    font-family: "Sarasa Mono J", "Sarasa Mono SC", "Sarasa Mono TC", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
+    font-family: "Sarasa Mono SC", "Sarasa Mono TC", "Sarasa Mono J", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
     font-size: 9pt !important;
     font-weight: normal;
     color: #546386;
