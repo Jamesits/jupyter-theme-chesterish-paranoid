@@ -1,6 +1,18 @@
 /* alignment */
 
 
+/* running tab and cluster tab top tip should be 37px height */
+
+#running_toolbar {
+    margin-top: 2px;
+}
+
+#clusters {
+    margin-top: 11px;
+    margin-bottom: 4px;
+}
+
+
 /* file list page "Upload" and "New" button */
 
 .btn-xs,
@@ -9,15 +21,16 @@
 }
 
 
-/* all tabs: right side kernel name and running tag */
+/* file table row alignment */
+
+.list_item.row input[type="checkbox"] {
+    vertical-align: middle;
+}
 
 .item_buttons.pull-right {
     position: relative !important;
     top: -5px !important;
 }
-
-
-/* running tab: notebook title align with icon */
 
 .item_icon.running_notebook_icon.icon-fixed-width {
     position: relative;
