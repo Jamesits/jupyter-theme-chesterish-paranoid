@@ -1,0 +1,69 @@
+/* alignment */
+.item_buttons.pull-right {
+    line-height: 1em !important;
+    position: relative !important;
+    top: -4px !important;
+}
+
+.item_buttons .kernel-name {
+    padding-top: 7px !important;
+}
+
+.item_icon,
+.item_link {
+    position: relative !important;
+    top: -4px !important;
+}
+
+.item_buttons .running-indicator {
+    padding-top: 7px !important;
+}
+
+#logout {
+    /* padding-top: 8px !important; */
+    padding-top: 4px !important;
+    padding-bottom: 6px !important;
+}
+
+span.save_widget span.filename {
+    color: #a2b0c7 !important;
+    background-color: rgba(0, 0, 0, 0) !important;
+    margin-top: 4px !important;
+}
+
+div.prompt.input_prompt {
+    font-size: 12pt !important;
+    padding-top: 12px !important;
+}
+
+div.notification_widget.info,
+.notification_widget.info {
+    font-size: 12pt !important;
+    margin-top: 8px !important;
+}
+
+.notification_widget.warning {
+    font-size: 12pt !important;
+}
+
+#notification_trusted {
+    margin-top: 12px !important;
+}
+
+.notification_widget,
+div.notification_widget {
+    margin-top: 8px !important;
+    font-size: 12pt !important;
+}
+
+/* remove terminal top white bar */
+.terminal-app #header {
+    background: #1a2028;
+}
+
+
+/* remove markdown <pre> background color */
+div.text_cell_render pre,
+div.text_cell_render code {
+    background-color: inherit;
+}
