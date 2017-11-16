@@ -101,7 +101,7 @@ div.notification_widget {
 /* add a little margin on the top of the page */
 
 #header {
-    margin-top: 16px;
+    padding-top: 16px;
 }
 
 
