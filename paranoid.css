@@ -100,9 +100,8 @@ div.notification_widget {
 
 /* add a little margin on the top of the page */
 
-#header-container {
-    position: relative;
-    top: 16px;
+#header {
+    margin-top: 16px;
 }
 
 
