@@ -1,6 +1,6 @@
 /* Still display Jupyter logo */
 
-#ipython_notebook {
+div#ipython_notebook {
     display: block;
 }
 
