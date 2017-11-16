@@ -3191,6 +3191,10 @@ span.save_widget span.filename:hover {
 	top: -4px !important;
 }
 
+.item_buttons .kernel-name {
+	padding-top: 7px !important;
+}
+
 .item_icon, .item_link {
 	position: relative !important;
 	top: -5px !important;
@@ -3240,18 +3244,3 @@ div.notification_widget.info, .notification_widget.info {
 }
 
 /* paranoid end */
-
-<script>
-    MathJax.Hub.Config({
-        "HTML-CSS": {
-            /*preferredFont: "TeX",*/
-            /*availableFonts: ["TeX", "STIX"],*/
-            styles: {
-                scale: 100,
-                ".MathJax_Display": {
-                    "font-size": "100%",
-                }
-            }
-        }
-    });
-</script>
