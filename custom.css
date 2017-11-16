@@ -3243,4 +3243,9 @@ div.notification_widget.info, .notification_widget.info {
 	background: #1a2028;
 }
 
+/* markdown <pre> background color */
+div.text_cell_render pre, div.text_cell_render code {
+	background-color: inherit;
+}
+
 /* paranoid end */
