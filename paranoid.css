@@ -4,11 +4,11 @@
 /* running tab and cluster tab top tip should be 37px height */
 
 #running_toolbar {
-    margin-top: 2px;
+    margin-top: 7px;
 }
 
 #clusters {
-    margin-top: 11px;
+    margin-top: 15px;
     margin-bottom: 4px;
 }
 
