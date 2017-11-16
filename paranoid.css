@@ -73,7 +73,9 @@ span.save_widget span.filename {
 
 /* notebook page: toolbar */
 
+
 /* menu: not really need that large padding on top */
+
 .navbar-default .navbar-nav>li>a {
     padding-top: 11px;
 }
@@ -83,16 +85,6 @@ div.prompt.input_prompt {
     padding-top: 12px !important;
 }
 
-div.notification_widget.info,
-.notification_widget.info {
-    font-size: 12pt !important;
-    margin-top: 8px !important;
-}
-
-.notification_widget.warning {
-    font-size: 12pt !important;
-}
-
 #notification_trusted {
     margin-top: 12px !important;
 }
@@ -100,7 +92,24 @@ div.notification_widget.info,
 .notification_widget,
 div.notification_widget {
     margin-top: 8px !important;
-    font-size: 12pt !important;
+    font-size: 16px !important;
+}
+
+div.notification_widget.info,
+.notification_widget.info,
+.notification_widget:active:hover,
+.notification_widget.active:hover,
+.open>.dropdown-toggle.notification_widget:hover,
+.notification_widget:active:focus,
+.notification_widget.active:focus,
+.open>.dropdown-toggle.notification_widget:focus,
+.notification_widget:active.focus,
+.notification_widget.active.focus,
+.open>.dropdown-toggle.notification_widget.focus,
+div#notification_notebook.notification_widget.btn.btn-xs.navbar-btn,
+div#notification_notebook.notification_widget.btn.btn-xs.navbar-btn:hover,
+div#notification_notebook.notification_widget.btn.btn-xs.navbar-btn:focus {
+    font-size: 16px !important;
 }
 
 
@@ -113,7 +122,9 @@ div.notification_widget {
     margin-top: 12px;
 }
 
+
 /* put main content a little higher to prevent scroll bar */
+
 #site {
     position: relative;
     top: -12px;
