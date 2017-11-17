@@ -71,6 +71,13 @@ span.save_widget span.filename {
 }
 
 
+/* notebook page: fix the problem when code is too long the rightmost char is hidden */
+
+.CodeMirror-scroll {
+    margin-right: -20px;
+}
+
+
 /* notebook page: toolbar */
 
 
