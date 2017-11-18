@@ -78,6 +78,13 @@ span.save_widget span.filename {
 }
 
 
+/* notebook page: fix input cell separator too right */
+
+.cell.code_cell .prompt.input_prompt {
+    margin-left: -5px;
+}
+
+
 /* notebook page: toolbar */
 
 
