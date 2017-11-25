@@ -19,6 +19,10 @@ div#ipython_notebook {
     margin-bottom: 4px;
 }
 
+#ipyclusters {
+    margin-top: 10px;
+}
+
 
 /* file list page "Upload" and "New" button */
 
@@ -47,6 +51,17 @@ div#ipython_notebook {
 #running_list_placeholder .item_link {
     position: relative !important;
     top: -4px !important;
+}
+
+
+/* IPython Clusters list */
+
+#ipyclusters #cluster_list_header {
+    text-transform: capitalize;
+}
+
+#ipyclusters .action_col {
+    text-align: center;
 }
 
 
