@@ -39,6 +39,10 @@ div#ipython_notebook {
     vertical-align: middle;
 }
 
+#project_name a {
+    vertical-align: middle;
+}
+
 .item_buttons.pull-right {
     position: relative !important;
     top: -5px !important;
