@@ -34,7 +34,7 @@ div#ipython_notebook {
 
 /* file table row alignment */
 
-.list_item.row input[type="checkbox"] {
+.list_item.row input[type="checkbox"], #counter-select-all {
     vertical-align: middle;
 }
 
