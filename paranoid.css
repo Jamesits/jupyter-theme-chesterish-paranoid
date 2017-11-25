@@ -34,7 +34,8 @@ div#ipython_notebook {
 
 /* file table row alignment */
 
-.list_item.row input[type="checkbox"], #counter-select-all {
+.list_item.row input[type="checkbox"],
+#counter-select-all {
     vertical-align: middle;
 }
 
@@ -176,6 +177,13 @@ div#notification_notebook.notification_widget.btn.btn-xs.navbar-btn:focus {
 
 .terminal-app #header {
     background: #1a2028;
+}
+
+
+/* detected URLs in terminal: use mono fonts too */
+
+.terminal a {
+    font-family: "Sarasa Mono SC", "Sarasa Mono TC", "Sarasa Mono J", Iosevka, Consolas, "Courier New", Courier, "Ubuntu Mono", monospace;
 }
 
 
