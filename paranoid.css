@@ -64,6 +64,19 @@ div#ipython_notebook {
     text-align: center;
 }
 
+#ipyclusters .list_item .action_col {
+    padding-top: 0px;
+}
+
+#ipyclusters .list_item .engine_col {
+    padding-top: 3px;
+}
+
+.engine_num_input {
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
 
 /* top bar: log out button align with control panel button */
 
