@@ -43,6 +43,10 @@ div#ipython_notebook {
     vertical-align: middle;
 }
 
+#last_modified, #sort_name {
+    padding-top: 4px;
+}
+
 .item_buttons.pull-right {
     position: relative !important;
     top: -5px !important;
